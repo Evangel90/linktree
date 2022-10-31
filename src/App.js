@@ -2,6 +2,7 @@ import Content from './components/content';
 import Link from './components/link';
 import LinkContent from './components/linkCont';
 import Profile from './components/profile'
+import SocialSec from './components/socialSec';
 
 function App() {
 
@@ -21,7 +22,7 @@ function App() {
           )
         })}
       </LinkContent>
-
+      <SocialSec/>
     </Content>
 
   );
