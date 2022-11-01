@@ -1,0 +1,18 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 56px;
+    width: 1152px;
+    height: 774px;
+    /* background-color: red; */
+    margin: auto auto auto 12rem;
+}
+
+/* div{
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+} */
