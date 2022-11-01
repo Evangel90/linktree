@@ -9,3 +9,9 @@
     height: 142px;
     /* background-color: green; */
 }
+
+.imgWrapper:hover{
+    /* background: linear-gradient(0deg, rgba(52, 64, 84, 0.75), rgba(52, 64, 84, 0.75)), url('../img/Icon.png'); */
+    background-color: rgba(141, 139, 137, 0.756);
+    z-index: 2;
+}
